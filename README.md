@@ -6,9 +6,11 @@
 **Date:** January 2026  
 
 ## Project Overview
-This project implements an end-to-end data architecture workflow for FlexiMart.
-It involves cleaning raw datasets, designing a relational database using MySQL,
-and performing business analysis using SQL queries.
+This project implements a complete data architecture solution for FlexiMart,
+covering data ingestion, cleaning, relational modeling, NoSQL design, and data
+warehousing. It demonstrates how raw transactional data can be transformed into
+structured databases and analytical systems to support business intelligence
+and decision-making.
 
 ## Technologies Used
 - Python (pandas)
