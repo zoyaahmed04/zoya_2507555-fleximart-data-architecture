@@ -10,6 +10,12 @@ This project implements an end-to-end data architecture workflow for FlexiMart.
 It involves cleaning raw datasets, designing a relational database using MySQL,
 and performing business analysis using SQL queries.
 
+## Technologies Used
+- Python (pandas)
+- MySQL
+- SQL
+- GitHub
+
 ## Repository Structure
 
 part1-database-etl/
