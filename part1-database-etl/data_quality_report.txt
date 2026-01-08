@@ -1,0 +1,37 @@
+FlexiMart Data Quality Report
+----------------------------
+
+Files Processed:
+- customers_raw.csv
+- products_raw.csv
+- sales_raw.csv
+
+Records Processed:
+- Customers: 25 raw records
+- Products: 20 raw records
+- Sales: 20 raw records
+
+Data Cleaning Performed:
+- Removed duplicate customer records
+- Handled missing email values
+- Standardized date formats
+- Cleaned inconsistent phone number formats
+- Handled missing prices and stock values
+- Removed records with invalid foreign keys
+
+Duplicates Removed:
+- Customers: 1 duplicate record removed
+
+Missing Values Handled:
+- Customers: missing emails and dates handled
+- Products: missing prices and stock handled
+- Sales: missing customer IDs handled
+
+Records Loaded Successfully:
+- Customers table: 24 records
+- Products table: 20 records
+- Sales table: records loaded successfully after cleaning
+
+Conclusion:
+All datasets were successfully cleaned, validated, and loaded into the MySQL
+database with appropriate handling of data quality issues.
